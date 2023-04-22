@@ -9,3 +9,4 @@ Modifikasi kode yang ada. Ketika pencet WASD, skor masih jadi 1 2 3 4 secara har
 
 # RUN TEST
 
+https://user-images.githubusercontent.com/99590350/233762888-33aff7ca-a29f-4a92-8c3c-ae3ae4b31a5b.mp4
